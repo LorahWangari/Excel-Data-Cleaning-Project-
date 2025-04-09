@@ -1,18 +1,28 @@
-# Excel Data Cleaning and Visualization Project
+# Excel Data Cleaning Project
 
-# Overview
-  This project focuses on cleaning a messy datasetand creating insightful visualizations using Microsoft Excel. 
+## Overview
+This project showcases my skills in cleaning and organizing raw data using Microsoft Excel. I used a sample dataset to simulate a real-world cleaning task and followed industry-standard steps for preparing data for analysis.
 
-# Goals
-  -Identify and clean inconsistent data entries.
-  -Use formaulas and comditional formating. 
-  -Create dynamic charts to present trends.
+## Tools Used
+- Microsoft Excel
 
-# Tools Used
--Microsoft Excel
--Pivot Tables
--Conditional Formatting 
--Charting Tools
+## Key Tasks Performed
+- Removed duplicate entries
+- Standardized formatting (date columns, capitalization)
+- Split and combined columns using Excel formulas
+- Handled missing data appropriately
+- Applied data validation to improve consistency
 
-This project was a great way to practice hands-on data wrangling using Excel. It demonstartes a practical approac to cleaning real-worl messy data
-and turning it into something usable.
+## Before vs After
+- Original data was cluttered, inconsistent, and difficult to analyze.
+- After cleaning, the dataset was structured and ready for deeper analysis or visualization.
+
+## What I Learned
+- Attention to detail is critical when preparing data
+- Efficient use of formulas and filters can save time and improve accuracy
+- Data validation and conditional formatting are powerful tools for error detection
+
+## Next Steps
+I plan to build a dashboard using this cleaned data to demonstrate analysis and visualization.
+
+---.
